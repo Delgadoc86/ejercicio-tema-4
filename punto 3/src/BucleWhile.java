@@ -12,6 +12,6 @@ public class BucleWhile{
         do {
             numeroDoWhile++; // Incrementa el valor de la variable en uno cada vez que se ejecuta
             System.out.println("Valor actual de numeroDoWhile: " + numeroDoWhile); // Muestra el valor por pantalla
-        } while (numeroDoWhile < 3);
+        } while (numeroDoWhile < 1);
     }
 }
